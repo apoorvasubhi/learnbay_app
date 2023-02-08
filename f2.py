@@ -1,4 +1,1 @@
-a =10
-b = 20
-print(a+b)
-print(hello world)
+def adder(10,20)
